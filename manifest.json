@@ -1,0 +1,17 @@
+{
+    "name": "RecipeCalc - Recipe Cost Calculator",
+    "short_name": "RecipeCalc",
+    "description": "Calculate the cost per serving of any recipe. For home cooks, bakers, and food entrepreneurs.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#EA580C",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127859;</text></svg>",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
